@@ -9,7 +9,7 @@
 
 A full-stack, production-ready e-commerce platform built with **Laravel 10** and **Pure CSS** — no frameworks like Bootstrap or Tailwind. Features a complete storefront, shopping cart, checkout, user dashboard, and full admin panel with dark mode support.
 
-[Live Demo](#) · [Report Bug](https://github.com/marouaneradi/E-Commerce-Pro/issues) · [Request Feature](https://github.com/marouaneradi/E-Commerce-Pro/issues)
+
 
 </div>
 
